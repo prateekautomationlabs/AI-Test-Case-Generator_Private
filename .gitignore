@@ -1,0 +1,30 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Test results
+allure-results/
+allure-report/
+.pytest_cache/
+
+# CSV and HTML reports
+*.csv
+*.html
+
+# IDE-specific files
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore config files with sensitive data
+config.py
